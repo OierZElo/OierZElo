@@ -72,14 +72,12 @@ Currently seeking <b>internships or research opportunities</b> where I can contr
 
 ## <span style="color:#FF0000;background:#000;">🎓 Education</span>
 
-<span style="color:#FF0000;background:#000;">
 | Degree/Certificate | Institution | Status |
 |--------------------|-------------|--------|
 | BSc in Computer Science + Data Science & AI | University of Deusto | Ongoing |
 | Programming Student | 42 Urduliz | Ongoing |
 | Cybersecurity for SMEs Certificate | Universidad Isabel I | Completed |
 | Creation! Entrepreneur Program | University of Deusto | Completed |
-</span>
 
 ---
 
