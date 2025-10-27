@@ -87,7 +87,7 @@ Currently seeking <b>internships or research opportunities</b> where I can contr
 
 <p align="center">
   <a href="mailto:oier.z@opendeusto.es"><img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=FF0000&labelColor=000000"></a>
-  <a href="https://www.linkedin.com/in/oier-zugazaga-elorriaga/"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=FF0000&labelColor=000000"></a>
+  <a href="https://www.linkedin.com/in/oier-zugazaga/"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=FF0000&labelColor=000000"></a>
   <a href="https://github.com/OierZElo"><img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=FF0000&labelColor=000000"></a>
 </p>
 
@@ -107,8 +107,3 @@ Currently seeking <b>internships or research opportunities</b> where I can contr
 
 ---
 
-<div align="center">
-
-⭐️ From <a href="https://github.com/OierZElo" style="color:#FF0000;">OierZElo</a>
-
-</div>
