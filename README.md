@@ -1,4 +1,3 @@
-<!-- Profile README for OierZElo with Matrix Theme -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=180&section=header&text=Oier%20Zugazaga&fontSize=40&fontAlignY=35&fontColor=FF0000&desc=Student%20%7C%20Cybersecurity%20%7C%20AI%20%7C%20Explorer&descAlignY=60&descAlign=62" alt="header" />
@@ -18,12 +17,6 @@
 </div>
 
 <br>
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/JulienMaille/dracula-readme/master/matrix.svg" alt="matrix rain style" />
-
-</div>
 
 ---
 
@@ -115,8 +108,6 @@ Currently seeking <b>internships or research opportunities</b> where I can contr
 ---
 
 <div align="center">
-
-![Matrix rain](https://raw.githubusercontent.com/JulienMaille/dracula-readme/master/matrix.svg)
 
 ⭐️ From <a href="https://github.com/OierZElo" style="color:#FF0000;">OierZElo</a>
 
