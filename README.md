@@ -18,9 +18,7 @@ I’m a curious and committed student who loves exploring the intersection betwe
 Currently seeking **internships or research opportunities** where I can contribute and grow in an innovative environment.
 
 - 💻 **Interests:** Cybersecurity, Quantum Computing, Artificial Intelligence, Big Data  
-- 🤝 **Volunteering:** Teaching Scratch in vulnerable communities  
 - ⚙️ **Collaboration:** AI Commission Scholarship at the University of Deusto  
-- 🤖 **FLL Referee:** First Lego League 2025
 
 ---
 
@@ -39,7 +37,6 @@ Currently seeking **internships or research opportunities** where I can contribu
 - 💾 Programming: Python, Rust, C, Java (basic level)  
 - 🧮 Basic Digital Electronics  
 - 🧠 Strong problem-solving and adaptability  
-- 🧑‍💼 Leadership experience as Degree Subdelegate  
 
 ---
 
@@ -73,7 +70,7 @@ Currently seeking **internships or research opportunities** where I can contribu
 
 ---
 
-> *"Curiosity and persistence are the best tools to build secure and intelligent systems."*
+> *"If you won't burn for something, you'll fade into nothing"*
 
 ---
 
