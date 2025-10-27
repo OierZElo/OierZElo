@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Oier+Zugazaga;Student+%7C+Cybersecurity+%7C+AI+%7C+Explorer;Welcome+to+my+Matrix!;Follow+the+red+code..." alt="Typing SVG" />
 </div>
----
 
 
 <div align="center">
@@ -14,7 +13,6 @@
 
 </div>
 
----
 
 ## <span style="color:#FF0000;background:#000;">🧠 About Me</span>
 
