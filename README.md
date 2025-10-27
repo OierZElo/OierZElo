@@ -1,3 +1,6 @@
+<h1 style="color:#FF0000; font-family:'Fira Mono','JetBrains Mono',monospace; font-weight:bold; margin-bottom:0;">
+    Oier Zugazaga
+  </h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Oier+Zugazaga;Student+%7C+Cybersecurity+%7C+AI+%7C+Explorer;Welcome+to+my+GitHub!;Follow+the+red+code..." alt="Typing SVG" />
