@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=180&section=header&text=Oier%20Zugazaga&fontSize=40&fontAlignY=35&fontColor=FF0000&desc=Student%20%7C%20Cybersecurity%20%7C%20AI%20%7C%20Explorer&descAlignY=60&descAlign=62" alt="header" />
 </p>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Oier+Zugazaga;Student+%7C+Cybersecurity+%7C+AI+%7C+Explorer;Welcome+to+my+GitHub!;Follow+the+red+code..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Oier+Zugazaga;Student+%7C+Cybersecurity+%7C+AI+%7C+Explorer;Welcome+to+my+GitHub!" />
 </div>
 <div align="center">
 
