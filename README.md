@@ -1,7 +1,6 @@
 <!--
   PROFILE README / RETRO-DIGITAL THEME
   Palette: #0B0B10 · #14141C · #1E1E28 · #8A5A7A · #C09BB4 · #E7DCE7
-  GitHub strips most inline CSS, so visual styling uses SVG services and badges.
 -->
 
 <p align="center">
