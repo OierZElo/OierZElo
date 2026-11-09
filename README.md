@@ -1,56 +1,91 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B10,50:14141C,100:2A2230&height=170&section=header&text=Oier%20Zugazaga&fontSize=38&fontAlignY=38&fontColor=E7DCE7&desc=Computer%20Science%20%7C%20Cybersecurity%20%7C%20AI&descAlignY=65&descSize=15" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=180&section=header&text=Oier%20Zugazaga&fontSize=40&fontAlignY=35&fontColor=FF0000&desc=Student%20%7C%20Cybersecurity%20%7C%20AI%20%7C%20Explorer&descAlignY=60&descAlign=62" alt="header" />
 </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Oier+Zugazaga;Student+%7C+Cybersecurity+%7C+AI+%7C+Explorer;Welcome+to+my+GitHub!" />
+</div>
+<div align="center">
+
+<span style="color:#FF0000; background:#000; font-family: 'Fira Mono', monospace; font-size: 1.2em;">
+🎓 Computer Science and Data Science & AI student at <b>University of Deusto</b> and <b>42 Urduliz</b>.<br>
+💡 Passionate about <b>cybersecurity</b>, <b>cryptography</b>, <b>AI</b>, and <b>malware analysis</b> — always eager to learn how systems really work.
+</span>
+
+</div>
+
+
+## <span style="color:#FF0000;background:#000;">🧠 About Me</span>
+
+<span style="color:#FF0000;background:#000;">
+I’m a curious and committed student who loves exploring the intersection between <b>security</b> and <b>technology</b>.<br>
+Currently seeking <b>internships or research opportunities</b> where I can contribute and grow in an innovative environment.
+
+- 💻 <b>Interests:</b> Cybersecurity, Quantum Computing, Artificial Intelligence, Big Data  
+- ⚙️ <b>Collaboration:</b> AI Commission Scholarship at the University of Deusto  
+</span>
+
+---
+
+## <span style="color:#FF0000;background:#000;">🧩 Skills</span>
+
+<span style="color:#FF0000;background:#000;">
+<img src="https://img.shields.io/badge/Linux-FF0000?style=flat-square&logo=linux&logoColor=FF0000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Python-FF0000?style=flat-square&logo=python&logoColor=FF0000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Rust-FF0000?style=flat-square&logo=rust&logoColor=FF0000&labelColor=000000" />
+<img src="https://img.shields.io/badge/C-FF0000?style=flat-square&logo=c&logoColor=FF0000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=java&logoColor=FF0000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=flat-square&logo=datadog&logoColor=FF0000&labelColor=000000" />
+
+
+- 🐧 Intermediate Linux knowledge  
+- 🔐 Basic Cybersecurity, Cryptography, and Malware Analysis  
+- 💾 Programming: Python, Rust, C, Java (basic level)  
+- 🧮 Basic Digital Electronics  
+- 🧠 Strong problem-solving and adaptability  
+</span>
+
+---
+
+## <span style="color:#FF0000;background:#000;">🎓 Education</span>
+
+| Degree/Certificate | Institution | Status |
+|--------------------|-------------|--------|
+| BSc in Computer Science + Data Science & AI | University of Deusto | Ongoing |
+| Programming Student | 42 Urduliz | Ongoing |
+| Cybersecurity for SMEs Certificate | Universidad Isabel I | Completed |
+| Creation! Entrepreneur Program | University of Deusto | Completed |
+
+---
+
+## <span style="color:#FF0000;background:#000;">📊 GitHub Stats</span>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=C09BB4&center=true&vCenter=true&width=900&lines=%3E+student+%2F%2F+builder+%2F%2F+explorer;%3E+cybersecurity+%2F+reverse+engineering+%2F+AI;%3E+understanding+how+systems+really+work" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-14141C?style=flat-square&logo=linux&logoColor=C09BB4" />
-  <img src="https://img.shields.io/badge/Python-14141C?style=flat-square&logo=python&logoColor=C09BB4" />
-  <img src="https://img.shields.io/badge/Rust-14141C?style=flat-square&logo=rust&logoColor=C09BB4" />
-  <img src="https://img.shields.io/badge/Cybersecurity-14141C?style=flat-square&logo=protonvpn&logoColor=C09BB4" />
-  <img src="https://img.shields.io/badge/AI-14141C?style=flat-square&logo=openai&logoColor=C09BB4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OierZElo&show_icons=true&theme=dark&hide_title=false&title_color=ff0000&text_color=ff0000&icon_color=ff0000&bg_color=000000" alt="OierZElo's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OierZElo&layout=compact&theme=dark&title_color=ff0000&text_color=ff0000&bg_color=000000" alt="OierZElo's Top Langs" height="160"/>
 </p>
 
 ---
 
-## `oier@host ~ $ cat about.txt`
-
-Computer Science + Data Science & AI student at the **University of Deusto**, also learning through **42 Urduliz**.
-
-I enjoy understanding how systems work beneath the surface, especially **cybersecurity**, **reverse engineering**, **malware analysis**, **AI**, and **Linux**.
-
-I'm open to **internship** and **research opportunities**, and I like building projects that help me understand real systems in depth.
-
----
-
-## `oier@host ~ $ ls ~/interests`
-
-- **Cybersecurity**
-- **Reverse Engineering**
-- **Malware Analysis**
-- **Artificial Intelligence**
-- **Linux / Systems**
-- **Data Science**
-
----
-
-## `oier@host ~ $ ./toolkit --list`
+## <span style="color:#FF0000;background:#000;">🌐 Connect with Me</span>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Neovim-14141C?style=flat-square&logo=neovim&logoColor=C09BB4" />
-  <img src="https://img.shields.io/badge/Git-14141C?style=flat-square&logo=git&logoColor=C09BB4" />
-  <img src="https://img.shields.io/badge/C-14141C?style=flat-square&logo=c&logoColor=C09BB4" />
-  <img src="https://img.shields.io/badge/Java-14141C?style=flat-square&logo=openjdk&logoColor=C09BB4" />
-  <img src="https://img.shields.io/badge/Linux-14141C?style=flat-square&logo=archlinux&logoColor=C09BB4" />
-  <img src="https://img.shields.io/badge/SQL-14141C?style=flat-square&logo=sqlite&logoColor=C09BB4" />
+  <a href="mailto:oier.z@opendeusto.es"><img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=FF0000&labelColor=000000"></a>
+  <a href="https://www.linkedin.com/in/oier-zugazaga/"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=FF0000&labelColor=000000"></a>
+  <a href="https://github.com/OierZElo"><img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=FF0000&labelColor=000000"></a>
 </p>
 
-```text
-[ systems ]      Linux / shell / networking
-[ security ]     cybersecurity / cryptography / malware analysis
-[ programming ]  Python / Rust / C / Java
-[ data ]         AI / data science / automation
-[ mindset ]      curiosity / adaptability / problem-solving
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=OierZElo&style=flat-square&color=ff0000&label=profile+views" alt="profile views"/>
+</div>
+
+<br>
+
+<div align="center">
+  <span style="color:#FF0000;background:#000; font-family: 'Fira Mono', monospace; font-size: 1.1em;">
+  <b>"If you won't burn for something, you'll fade into nothing."</b>
+  </span>
+</div>
+
+---
